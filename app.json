@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "trasee-montane",
+    "slug": "trasee-montane",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "ghiuc",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "ghicu",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Trasee pentru munte."
+  }
+}
